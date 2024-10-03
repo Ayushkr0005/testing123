@@ -1,5 +1,4 @@
-# testing123
-This is only a test code 
+#Time Traveler's Greeting App 
 
 🌟 Welcome to the Time Traveler's Greeting App! 🌟
 
